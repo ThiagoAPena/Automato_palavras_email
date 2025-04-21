@@ -4,4 +4,4 @@ Trabalho feito em c++ para identificar palavras suspeitas em um email recebido e
 Colaboradores:
 • Eduardo
 • Sarah
-• Thiago
+• Thiago 
